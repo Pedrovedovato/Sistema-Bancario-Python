@@ -4,8 +4,6 @@ Este é um projeto simples de sistema bancário desenvolvido em Python, como par
 
 ## 🚀 Funcionalidades
 
-- Criar usuário
-- Criar conta bancária
 - Depositar
 - Sacar
 - Ver extrato
